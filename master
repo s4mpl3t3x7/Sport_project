@@ -1,6 +1,11 @@
 import pandas as pd
 import pymysql.cursors
 import matplotlib.pyplot as plt
+print("test1")
+print("test2")
+print("test3")
+print("test4")
+
 # Подключение к базе данных:
 connection = pymysql.connect(host = '127.0.0.1',
 user = 'root',
